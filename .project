@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>6apdev-flights-ws</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.mule.tooling.core.muleStudioBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.mule.tooling.core.muleStudioNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/test/resources/flight-example.json</name>
+			<type>1</type>
+			<location>D:/APDevFundamentals4.3_studentFiles_30oct2020.zip (Unzipped Files)/APDevFundamentals4.3_studentFiles_30oct2020/resources/examples/flight-example.json</location>
+		</link>
+		<link>
+			<name>src/test/resources/flights-example.json</name>
+			<type>1</type>
+			<location>D:/APDevFundamentals4.3_studentFiles_30oct2020.zip (Unzipped Files)/APDevFundamentals4.3_studentFiles_30oct2020/resources/examples/flights-example.json</location>
+		</link>
+		<link>
+			<name>src/test/resources/flights-example.xml</name>
+			<type>1</type>
+			<location>D:/APDevFundamentals4.3_studentFiles_30oct2020.zip (Unzipped Files)/APDevFundamentals4.3_studentFiles_30oct2020/resources/examples/flights-example.xml</location>
+		</link>
+		<link>
+			<name>src/test/resources/united-flights-example.json</name>
+			<type>1</type>
+			<location>D:/APDevFundamentals4.3_studentFiles_30oct2020.zip (Unzipped Files)/APDevFundamentals4.3_studentFiles_30oct2020/resources/examples/united-flights-example.json</location>
+		</link>
+	</linkedResources>
+</projectDescription>
